@@ -1,0 +1,6 @@
+{
+  "name": "Pausa, Actívate y Aprende",
+  "description": "Ecosistema pedagógico digital para la implementación, seguimiento y transferencia de pausas activas en el aula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
